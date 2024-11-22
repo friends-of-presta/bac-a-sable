@@ -1,5 +1,12 @@
-# Bac à sable
+# FoP Contrib Academy
 Bac à sable Friends of Presta
+
+# Equipes
+
+## Team Contrib87
+Contribution : https://github.com/PrestaShop/PrestaShop/discussions/37437
+- Jean-François Viguier (Creabilis)
+- Tanguy JACQUET Mediacom87
 
 # Liste des inscrits pour la session du 22/11/2024
 
