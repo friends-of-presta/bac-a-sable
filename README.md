@@ -25,7 +25,8 @@ Bac à sable Friends of Presta
 - Carotte (Evolutive rulezzzzzzzz)
 - Dindault Lucas, Creabilis
 - Seddik Omar , Aikini
-- Omar Jbailli, Aikii
-- Compin Philippe, Aikin
-- ATATOUSSE Mohamed, Aikini
+- Omar Jbailli, Aikini
+- Compin Philippe, Aikini
+- ATATOUSSE Mohamed, Aini
 - Damien Bellegueulle - Phenix Info
+- Louis AUTHIE - Web Helpers !
