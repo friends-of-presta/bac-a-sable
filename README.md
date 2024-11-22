@@ -27,5 +27,5 @@ Bac à sable Friends of Presta
 - Seddik Omar , Aikini
 - Omar Jbailli, Aikii
 - Compin Philippe, Aikin
-- ATATOUSSE Mohamed, Aini
+- ATATOUSSE Mohamed, Aikini
 - Damien Bellegueulle - Phenix Info
