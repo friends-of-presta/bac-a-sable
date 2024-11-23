@@ -9,7 +9,9 @@ Contribution : https://github.com/PrestaShop/PrestaShop/discussions/37437
 - Tanguy JACQUET Mediacom87
 
 ## Team Chocolatine
-Contribution : https://github.com/PrestaShop/nightly-board/pull/144
+Contribution : 
+https://github.com/PrestaShop/nightly-board/pull/144
+https://github.com/PrestaShop/PrestaShop/pull/37447
 - Thomas Roux 
 
 # Liste des inscrits pour la session du 22/11/2024
