@@ -10,6 +10,7 @@ Contribution : https://github.com/PrestaShop/PrestaShop/discussions/37437
 
 ## Team Chocolatine
 Contribution :
+
 https://github.com/PrestaShop/nightly-board/pull/144
 
 https://github.com/PrestaShop/PrestaShop/pull/37447
