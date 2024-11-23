@@ -12,7 +12,9 @@ Contribution : https://github.com/PrestaShop/PrestaShop/discussions/37437
 Contribution : https://github.com/PrestaShop/nightly-board/pull/144 / 
 https://github.com/PrestaShop/PrestaShop/pull/37447 / 
 https://github.com/PrestaShop/PrestaShop/pull/37450 / 
-https://github.com/PrestaShop/contactform/pull/81 /
+https://github.com/PrestaShop/contactform/pull/81 / 
+https://github.com/PrestaShop/autoupgrade/pull/1034 / 
+https://github.com/PrestaShop/PrestaShop/pull/37451
 - Thomas Roux 
 
 # Liste des inscrits pour la session du 22/11/2024
