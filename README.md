@@ -8,6 +8,10 @@ Contribution : https://github.com/PrestaShop/PrestaShop/discussions/37437
 - Jean-François Viguier (Creabilis)
 - Tanguy JACQUET Mediacom87
 
+## Team Chocolatione
+Contribution : https://github.com/PrestaShop/nightly-board/pull/144
+- Thomas Roux 
+
 # Liste des inscrits pour la session du 22/11/2024
 
 - Thomas Roux
