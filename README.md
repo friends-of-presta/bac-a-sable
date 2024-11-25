@@ -15,7 +15,14 @@ https://github.com/PrestaShop/PrestaShop/pull/37450 /
 https://github.com/PrestaShop/contactform/pull/81 / 
 https://github.com/PrestaShop/autoupgrade/pull/1034 / 
 https://github.com/PrestaShop/PrestaShop/pull/37451
-- Thomas Roux 
+- Thomas Roux
+
+
+## Team PR13
+Faire une PR sur le nom du fichier du .htaccess à passer au actionHtaccessCreate
+- Nicolas SOTRON - PliciWeb
+
+  
 
 # Liste des inscrits pour la session du 22/11/2024
 
