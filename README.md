@@ -4,7 +4,7 @@ Bac à sable Friends of Presta
 # Equipes
 
 ## Team Contrib87
-Contribution : https://github.com/PrestaShop/PrestaShop/discussions/37437
+Contribution : https://github.com/PrestaShop/PrestaShop/pull/37430
 - Jean-François Viguier (Creabilis)
 - Tanguy JACQUET Mediacom87
 
