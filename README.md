@@ -19,7 +19,7 @@ https://github.com/PrestaShop/PrestaShop/pull/37451
 
 
 ## Team PR13
-Faire une PR sur le nom du fichier du .htaccess à passer au actionHtaccessCreate
+Contribution : https://github.com/PrestaShop/PrestaShop/pull/37535
 - Nicolas SOTRON - PliciWeb
 
   
