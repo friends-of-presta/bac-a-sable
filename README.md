@@ -8,15 +8,6 @@ Contribution : https://github.com/PrestaShop/PrestaShop/pull/37430
 - Jean-François Viguier (Creabilis)
 - Tanguy JACQUET Mediacom87
 
-## Team Chocolatine
-Contribution : https://github.com/PrestaShop/nightly-board/pull/144 / 
-https://github.com/PrestaShop/PrestaShop/pull/37447 / 
-https://github.com/PrestaShop/PrestaShop/pull/37450 / 
-https://github.com/PrestaShop/contactform/pull/81 / 
-https://github.com/PrestaShop/autoupgrade/pull/1034 / 
-https://github.com/PrestaShop/PrestaShop/pull/37451
-- Thomas Roux
-
 
 ## Team PR13
 Contribution : https://github.com/PrestaShop/PrestaShop/pull/37535
