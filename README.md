@@ -22,6 +22,9 @@ https://github.com/PrestaShop/PrestaShop/pull/37451
 Contribution : https://github.com/PrestaShop/PrestaShop/pull/37535
 - Nicolas SOTRON - PliciWeb
 
+## Evolu'team
+Contribution : https://github.com/PrestaShop/PrestaShop/pull/37596
+- Carotte - Evolutive
   
 
 # Liste des inscrits pour la session du 22/11/2024
